@@ -10,7 +10,6 @@ The Roku JWPlayer API is an open source project to enable Roku developers who ar
 # Features!
 
   - Video playback
-  - Drag and drop images (requires your Dropbox account be linked)
 
 ### Installation
 
