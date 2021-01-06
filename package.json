@@ -1,7 +1,7 @@
 {
   "name": "roku-jw",
   "version": "1.0.0",
-  "description": "Roku component for jwplayer playback.  To be installed using Roku package manager.",
+  "description": "Roku API for JWPlayer playback.  To be installed using Roku package manager.",
   "author": "",
   "license": "ISC",
   "homepage": "https://github.com/iObject/roku-jwplayer",
