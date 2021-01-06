@@ -1,0 +1,17 @@
+{
+  "name": "roku-jw",
+  "version": "1.0.0",
+  "description": "JW Player component for Roku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ropm",
+    "roku",
+    "jwplayer",
+    "rokucommunity"
+  ],
+  "author": "Tyler Smith",
+  "license": "ISC"
+}
